@@ -1,7 +1,10 @@
 # Digital-image-and-video-processing
 东南大学2019春季信号班学位课 
+
 数字图像与视频处理 王桥
+
 Copyright @ 180776 胡欣毅.  All rights reserved. 
+
 
 ### 学习指导及复习要点
 - 由于修改不及时，所有版本代码、报告有不同处，按Python版本代码为准
