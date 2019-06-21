@@ -1,0 +1,3 @@
+/home/huxinyi/桌面/数字图像处理/6周上课/c++/build/CMakeFiles/edit_cache.dir
+/home/huxinyi/桌面/数字图像处理/6周上课/c++/build/CMakeFiles/rebuild_cache.dir
+/home/huxinyi/桌面/数字图像处理/6周上课/c++/build/CMakeFiles/hxy.dir
