@@ -3,7 +3,6 @@
 
 数字图像与视频处理 王桥
 
-Copyright (C) 180776 胡欣毅.  All rights reserved. 
 
 
 ### 作业锦集及复习要点
