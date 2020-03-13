@@ -1,7 +1,7 @@
 
 # 数字图像与视频处理   王桥
 
-Copyright (C) 180776 胡欣毅.  All rights reserved. 
+Copyright © 180776 胡欣毅.  All rights reserved. 
 
 ***复习提要 Version3*** 
 
@@ -855,3 +855,4 @@ $$
 ***这个得看命***
 
 <center> <font face="楷体" color=red size=30> 王老师万岁!!! </font> </center>
+
